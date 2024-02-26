@@ -11,6 +11,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
+    gap: 12px;
+    padding-top: 5rem;
 
 }
+
+.top-bar input {
+    padding: 4px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    font-size: 12px;
+}
+
+.search-icon {}
